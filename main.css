@@ -165,6 +165,16 @@ h3 {
 .text {
   margin-left: 5%;
 }  
-  
+.button {
+margin-right: 10%;
+}
+
+#navbarNavAltMarkup {
+  margin-right: 10%;
+}
+
+.contact-icon {
+margin-left: 95%;
+}  
   
 }
