@@ -1,0 +1,97 @@
+.page-bg {
+background-color: #111f4d;
+padding: 0 5%;
+width: 100%;
+}
+
+.intro-text {
+  font-family: 'Abel', sans-serif;
+  font-family: 'Rajdhani', sans-serif;
+  color: #aeefec;
+  text-align: left;
+  padding: 0 15%;
+
+}
+
+.intro-h1 {
+  margin-top: 13%;
+}
+
+.profile {
+  border-radius: 25%;
+  width: 25%;
+  margin: 5% 10%;
+  float: left;
+}
+
+.navigation-features {
+  color: #aeefec;
+  font-family: 'Abel', sans-serif;
+  font-family: 'Rajdhani', sans-serif;
+  text-align: right;
+  font-size: 1.5rem;
+}
+
+.navbar {
+    background-color: #111f4d;
+}
+
+.logo {
+  width: 70%;
+}
+
+body {
+  background-color: #111f4d;
+}
+
+.contact {
+  color: #aeefec;
+  font-family: 'Abel', sans-serif;
+  font-family: 'Rajdhani', sans-serif;
+  text-align: left;
+  font-size: 2rem;
+}
+
+.contact-icon {
+  color: #aeefec;
+  margin: 0.5rem 0.5rem;
+  padding-right: 10px;
+}
+
+.fa-linkedin {
+  margin-left: 60%;
+}
+
+.col-lg-8, .col-lg-4 {
+  padding: 5px 5px;
+}
+
+.navbar {
+  padding: 0 0;
+}
+
+.text {
+  font-family: 'Abel', sans-serif;
+  font-family: 'Rajdhani', sans-serif;
+  color: #aeefec;
+  text-align: left;
+  margin-left: 10%;
+  margin-top: 3%;
+}
+
+.text-small {
+  font-family: 'Abel', sans-serif;
+  font-family: 'Rajdhani', sans-serif;
+  color: #aeefec;
+  text-align: left;
+  margin-left: 10%;
+}
+
+.pic {
+  width: 30%;
+}
+
+
+.cert-body {
+  margin-left: 5%;
+}
