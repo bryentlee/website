@@ -174,7 +174,12 @@ margin-right: 10%;
 }
 
 .contact-icon {
-margin-left: 95%;
+margin-left: 92%;
+}  
+
+.toggle-icon {
+  color: #aeefec;
+  margin-left: 92%;
 }  
   
 }
