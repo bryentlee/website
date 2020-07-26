@@ -64,6 +64,7 @@ width: 100%;
 
 body {
   background-color: #111f4d;
+  padding-right: 5px;
 }
 
 .contact {
@@ -120,4 +121,23 @@ body {
 
 .certs {
   margin-left: 10%;
+}
+
+@media (max-width: 800px) {
+  h6 {
+    font-size: 120%;
+    font-style: italic;
+  }
+
+h3 {
+    font-size: 200%;
+}
+
+.pic {
+  width: 70%;
+}
+
+.logo {
+  width: 120%;
+}
 }
