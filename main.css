@@ -84,7 +84,7 @@ body {
   margin-left: 60%;
 }
 
-.col-lg-8, .col-lg-4 {
+.col-9, .col-4 {
   padding: 5px 5px;
 }
 
@@ -111,11 +111,6 @@ body {
 
 .pic {
   width: 30%;
-}
-
-
-.cert-body {
-  margin-left: 5%;
 }
 
 .certs {
