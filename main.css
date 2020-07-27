@@ -184,15 +184,8 @@ margin-left: 92%;
 .toggle-icon {
   margin-left: 20%;
 }
-.intro-h1 {
-  font-size: 70%;
-}
-
-.intro-h1-2 {
-  font-size: 70%;
-}
-
-.intro-h1-3 {
-  font-size: 70%;
-}   
+ 
+carousel-indicators {
+  visibility: hidden;
+  }
 }
