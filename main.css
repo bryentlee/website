@@ -1,5 +1,5 @@
 .page-bg {
-background-color: #010a43;
+background-color: #00204a;
 padding: 0 5%;
 width: 100%;
 }
@@ -55,7 +55,7 @@ width: 100%;
 }
 
 .navbar {
-    background-color: #010a43;
+    background-color: #00204a;
 }
 
 .logo {
@@ -63,7 +63,7 @@ width: 100%;
 }
 
 body {
-  background-color: #010a43;
+  background-color: #00204a;
 }
 
 .contact {
@@ -185,7 +185,7 @@ margin-left: 92%;
   margin-left: 20%;
 }
  
-carousel-indicators {
+.carousel-indicators {
   visibility: hidden;
   }
 }
